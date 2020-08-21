@@ -2,8 +2,8 @@
 ## Contributor
 Joy Mueni Muli
 ## General info
-This is an independent project working on a study of an electric car-sharing service company
-which wanted to understand car usage in stations by hours. Python was used for data cleaning
-and data analysis and finally a data report was written
+This is an independent project working on a study that shows the Financial inclusion in East Africa i.e Kenya, Rwanda, Tanzania and Uganda.
+Python was used for data cleaning
+and data analysis and visualization
 ## Installations
-Python, Colab notebook, Excel and Google Docs
+Python, Colab 
